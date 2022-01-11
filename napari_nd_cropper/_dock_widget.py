@@ -1,3 +1,11 @@
+# -*- coding: utf-8 -*-
+
+"""
+Created on Fri Oct 29 09:32:34 2021
+
+@author: Marc Boucsein
+"""
+
 import napari
 from napari_plugin_engine import napari_hook_implementation
 from qtpy.QtWidgets import QWidget, QHBoxLayout, QVBoxLayout, QPushButton, QLineEdit, QListWidget, QListWidgetItem, QLabel, QFileDialog, QCheckBox

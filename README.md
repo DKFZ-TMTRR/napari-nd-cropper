@@ -1,8 +1,8 @@
-# napari-nd_cropper
+# napari-nd-cropper
 
-[![License](https://img.shields.io/pypi/l/napari-medical-image-formats.svg?color=green)](https://github.com/MBPhys/napari-nd_cropper/raw/master/LICENSE)
-[![PyPI](https://img.shields.io/pypi/v/napari-nd_cropper.svg?color=green)](https://pypi.org/project/napari-nd_cropper)
-[![Python Version](https://img.shields.io/pypi/pyversions/napari-nd_cropper.svg?color=green)](https://python.org)
+[![License](https://img.shields.io/pypi/l/napari-medical-image-formats.svg?color=green)](https://github.com/MBPhys/napari-nd-cropper/raw/master/LICENSE)
+[![PyPI](https://img.shields.io/pypi/v/napari-nd-cropper.svg?color=green)](https://pypi.org/project/napari-nd-cropper)
+[![Python Version](https://img.shields.io/pypi/pyversions/napari-nd-cropper.svg?color=green)](https://python.org)
 
 
 A napari plugin in order to crop nd-images via different modes:
@@ -17,9 +17,9 @@ A napari plugin in order to crop nd-images via different modes:
 
 ## Installation
 
-You can install `napari-nd_cropper` via [pip]:
+You can install `napari-nd-cropper` via [pip]:
 
-    pip install napari-nd_cropper
+    pip install napari-nd-cropper
 
 ## Contributing
 
@@ -29,7 +29,7 @@ the coverage at least stays the same before you submit a pull request.
 ## License
 
 Distributed under the terms of the [BSD-3] license,
-"napari-nd_cropper" is free and open source software
+"napari-nd-cropper" is free and open source software
 
 ## Issues
 
@@ -45,7 +45,7 @@ If you encounter any problems, please [file an issue] along with a detailed desc
 [Apache Software License 2.0]: http://www.apache.org/licenses/LICENSE-2.0
 [Mozilla Public License 2.0]: https://www.mozilla.org/media/MPL/2.0/index.txt
 [cookiecutter-napari-plugin]: https://github.com/napari/cookiecutter-napari-plugin
-[file an issue]: https://github.com/MBPhys/napari-nd_cropper/issues
+[file an issue]: https://github.com/MBPhys/napari-nd-cropper/issues
 [napari]: https://github.com/napari/napari
 [tox]: https://tox.readthedocs.io/en/latest/
 [pip]: https://pypi.org/project/pip/
