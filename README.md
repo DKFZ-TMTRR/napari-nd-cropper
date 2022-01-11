@@ -3,7 +3,7 @@
 [![License](https://img.shields.io/pypi/l/napari-medical-image-formats.svg?color=green)](https://github.com/MBPhys/napari-nd_cropper/raw/master/LICENSE)
 [![PyPI](https://img.shields.io/pypi/v/napari-nd_cropper.svg?color=green)](https://pypi.org/project/napari-nd_cropper)
 [![Python Version](https://img.shields.io/pypi/pyversions/napari-nd_cropper.svg?color=green)](https://python.org)
-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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
+
 
 A napari plugin in order to crop nd-images via different modes:
 
